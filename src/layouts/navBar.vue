@@ -14,7 +14,7 @@
       >
 
 
-        <v-app-bar-title class="text-center">TO DO APP</v-app-bar-title>
+        <v-app-bar-title class="text-center">DEMO TRELLO</v-app-bar-title>
       </v-app-bar>
     </v-layout>
   </v-card>
